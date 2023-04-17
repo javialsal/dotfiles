@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = javialsal@gmail.com
+	name = Javier Alvarez
